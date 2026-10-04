@@ -49,4 +49,4 @@ This project is an educational prototype. It does not provide medical diagnoses 
 
 ## Contributors
 
-- Syahdu
+Syahdu
